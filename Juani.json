@@ -1,0 +1,17 @@
+{
+   "wallpapers": [
+      {
+         "author": "Ocean Walls",
+         "url": "https://raw.githubusercontent.com/MaxColins/Wallpaper/master/Adventure/Adventure.png",
+         "name": "Adventure",
+         "thumbnail": "https://raw.githubusercontent.com/MaxColins/Wallpaper/master/Adventure/thumbail.png"
+      },
+
+      {
+         "author": "Ocean Walls",
+         "url": "https://raw.githubusercontent.com/MaxColins/Wallpaper/master/Yoga/Yoga.png",
+         "name": "Yoga",
+         "thumbnail": "https://raw.githubusercontent.com/MaxColins/Wallpaper/master/Yoga/thumbail.png"
+      }
+   ]
+}
